@@ -1,0 +1,28 @@
+table 
+   {
+   	width: 650px;
+   	text-align: center;
+   	color: black;
+   	margin: 50px auto;
+   	background-color: #ddd;
+  
+   }
+table,th,td
+{
+    	border-collapse: collapse;
+   	border: 2px solid red;
+}
+caption
+  {
+	font-family: monospace;
+	font-size: 30px;
+	font-weight: bold;
+	color: skyblue;
+	background-color: yellow;
+  }
+
+.left
+  {
+  	text-align: left;
+  }
+
